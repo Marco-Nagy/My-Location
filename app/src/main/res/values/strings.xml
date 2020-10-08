@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="lon">Lon</string>
+    <string name="lat">Lat</string>
+    <string name="your_location">Your Location</string>
+    <string name="my_location">My Location</string>
+</resources>
